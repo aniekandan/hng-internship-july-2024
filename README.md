@@ -5,7 +5,7 @@ Cellular Automata image
 bbbbbbb
 
 <p>
-   <img src="download%20(1).jpg" width="220" height="240" /> 
+   <img src="./download%20(1).jpeg" width="220" height="240" /> 
 </p>
 
 ![cellular automata image](download%20(1).jpeg)
