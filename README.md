@@ -28,7 +28,7 @@ The complete Technical Report can be found by following [this link](https://medi
 
 ## Task 1: Geospatial Analysis of Voting Behavior
 
-**Article Title**: From Polling Stations to Data Points: A Spatial Analysis of Voting Behavior  
+**Report Title**: From Polling Stations to Data Points: A Spatial Analysis of Voting Behavior  
 **Author**: Aniekan Daniel
 
 **Summary**: This study employs geospatial analysis techniques to detect voting irregularities in Akwa Ibom state’s election data, identifying and visualizing outlier polling units to enhance election integrity and transparency. The objective is to identify potential voting irregularities using geospatial analysis techniques.
@@ -40,16 +40,18 @@ The complete Technical Report can be found by following [this link](https://medi
 4. **Sorting and Visualizing Outliers**: Identifying top outliers and creating histograms and maps to visualize the results.
 
 **Code and Data**:
-- The complete code for this analysis is available in the `task_1` directory.
-- The datasets used include `AKWA IBOM_crosschecked.csv` and `AKWA IBOM_crosschecked_geocoded.csv`.
+- Follow [this link](https://github.com/aniekandan/hng-internship-july-2024-task1) to view the complete code for this analysis.
+- The dataset used is [`AKWA IBOM_crosschecked_geocoded.csv`](https://github.com/aniekandan/hng-internship-july-2024-task1/blob/main/data/AKWA%20IBOM_crosschecked_geocoded.csv).
 
 **Outputs**:
-- The outlier scores for each party are saved in an Excel file: `Polling_Unit_Outlier_Scores.xlsx`.
+- The outlier scores for each party are saved in an Excel file: [`Polling_Unit_Outlier_Scores.xlsx`](https://github.com/aniekandan/hng-internship-july-2024-task1/blob/main/deliverables/Polling_Unit_Outlier_Scores.xlsx).
 - Visualizations include histograms of outlier scores and maps showing the spatial distribution of outliers.
+
+The complete Technical Report can be found by following [this link](https://medium.com/@aniekandan05/rapid-insights-what-i-learned-from-a-glance-at-the-kaggle-sample-retail-dataset-0104bd55bdb4).
 
 ## Author
 
-Aniekan Daniel is an intern at HNG, working on data analysis projects. For more information about the HNG Internship program, visit the [internship page](https://hng.tech/) or learn about how to hire elite Freelance Talent [here](https://hng.tech/hire-freelancers).
+[Aniekan Daniel](https://www.datascienceportfol.io/aniekandan) is an intern at HNG, working on data analysis projects. For more information about the HNG Internship program, visit the [internship page](https://hng.tech/) or learn about how to hire elite Freelance Talent [here](https://hng.tech/hire-freelancers).
 
 ## License
 
@@ -57,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README provides an overview of the tasks completed during the HNG Internship for July 2024. Each task includes a summary, key steps, code and data references, and the final outputs. For more detailed analysis and code, please refer to the respective directories (`task_0` and `task_1`).
+This README provides an overview of the tasks completed during the HNG Internship for July 2024. Each task includes a summary, key steps, code and data references, and the final outputs. For more detailed analysis and code, please refer to the respective repositories.
