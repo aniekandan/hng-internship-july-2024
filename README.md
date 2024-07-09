@@ -56,7 +56,3 @@ The complete Technical Report can be found by following [this link](https://medi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides an overview of the tasks completed during the HNG Internship for July 2024. Each task includes a summary, key steps, code and data references, and the final outputs. For more detailed analysis and code, please refer to the respective repositories.
