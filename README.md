@@ -6,6 +6,7 @@ This repository contains the tasks completed as part of the HNG Internship for J
 
 1. [Task 0: Retail Sales Data Analysis](#task-0-retail-sales-data-analysis)
 2. [Task 1: Geospatial Analysis of Voting Behavior](#task-1-geospatial-analysis-of-voting-behavior)
+3. [Task 3: Identifying Undervalued Companies Using Finviz](#task-3-identifying-undervalued-companies-using-finviz)
 
 ## Task 0: Retail Sales Data Analysis
 
@@ -48,6 +49,25 @@ The complete Technical Report can be found by following [this link](https://medi
 - Visualizations include histograms of outlier scores and maps showing the spatial distribution of outliers.
 
 The complete Technical Report can be found by following [this link](https://medium.com/@aniekandan05/rapid-insights-what-i-learned-from-a-glance-at-the-kaggle-sample-retail-dataset-0104bd55bdb4).
+
+## Task 3: Identifying Undervalued Companies Using Finviz
+
+**Report Title**: Identifying Undervalued Companies Using Finviz
+**Author**: Aniekan Daniel
+
+**Summary**: This task involves analyzing companies using Finviz to identify undervalued firms by examining gross profit (GP) and gross profit growth (GPG) in comparison to their sector peers. The goal is to develop a valuation model that projects each company's true value in four years and assess if they are currently undervalued or overvalued. An additional variable will be factored into the model to enhance accuracy.
+
+**Key Steps**:
+1. **Data Collection**: Identify undervalued companies using Finviz and gather data on their GP and GPG, along with data from sector peers.
+2. **Comparative Analysis**: Compare GP and GPG of the selected company with its peers, and assess current valuations.
+3. **Valuation Model**: Create a model to project the company's value in four years based on GP, GPG, and sector trends.
+4. **Additional Variable and Explanation**: Identify and include an additional variable (e.g., market conditions) in the model. Explain this variable and justify its impact on the company’s valuation.
+
+**Code and Data**:
+- Follow [this link](https://github.com/aniekandan/hng-internship-july-2024-task3) to view the complete code for this analysis.
+- The datasets used are [found here](https://github.com/aniekandan/hng-internship-july-2024-task3/tree/main/data)
+
+The complete Technical Report can be found in the [README](https://github.com/aniekandan/hng-internship-july-2024-task3/blob/main/README.md).
 
 ## Author
 
