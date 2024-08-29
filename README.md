@@ -48,7 +48,7 @@ The complete Technical Report can be found by following [this link](https://medi
 - The outlier scores for each party are saved in an Excel file: [`Polling_Unit_Outlier_Scores.xlsx`](https://github.com/aniekandan/hng-internship-july-2024-task1/blob/main/deliverables/Polling_Unit_Outlier_Scores.xlsx).
 - Visualizations include histograms of outlier scores and maps showing the spatial distribution of outliers.
 
-The complete Technical Report can be found by following [this link](https://medium.com/@aniekandan05/rapid-insights-what-i-learned-from-a-glance-at-the-kaggle-sample-retail-dataset-0104bd55bdb4).
+The complete Technical Report can be found by following [this link](https://medium.com/@aniekandan05/from-polling-stations-to-data-points-a-spatial-analysis-of-voting-behavior-a8f4315f1430).
 
 ## Task 3: Identifying Undervalued Companies Using Finviz
 
